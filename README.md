@@ -79,3 +79,5 @@ ACT! Database File (PBD):
 ## 11. woa
 
 ## 12. rsp
+
+## 13. geoip
