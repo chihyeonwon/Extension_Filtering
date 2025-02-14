@@ -81,3 +81,7 @@ ACT! Database File (PBD):
 ## 12. rsp
 
 ## 13. geoip
+
+## 14. kr
+
+## 15. doJung
